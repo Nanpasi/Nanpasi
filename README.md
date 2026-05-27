@@ -7,7 +7,6 @@
 # ℹ️ About me
 * **Computer Science** student (_2026/01_)
 * **Quantum Computing** enthusiast
-* INTP (Introverted, Intuitive, Thinking, and Perceiving)
 
   
 
