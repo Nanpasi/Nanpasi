@@ -34,8 +34,6 @@
     <img width="611" height="720" alt="print" src="https://github.com/user-attachments/assets/48702ad0-af6b-4b3a-9b50-519180aaa9f7"/>
 </div>
 
-<hr>
-
 <!-- Widget de Streak
 <div align='center'>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nanpasi&theme=dark" alt="GitHub Streak" /></a>
