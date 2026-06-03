@@ -29,9 +29,13 @@
 
 <div align='center'>
   <h1>🚀 Projects</h1>
-  <h2>WhatsApp Automator</h2>
+  <h2>🔹WhatsApp Automator🔹</h2>
     <p>Programa simples de Python que manda mensagem automaticamente para qualquer número com horários programáveis.</p>
     <img width="611" height="720" alt="print" src="https://github.com/user-attachments/assets/48702ad0-af6b-4b3a-9b50-519180aaa9f7"/>
+
+  <h2>🔹QR Code Generator🔹</h2>
+  <p>Interface que recebe uma string do usuário e retorna um qr code, com opção de copiar e baixar PNG.</p>
+  <img width="477" height="647" alt="image" src="https://github.com/user-attachments/assets/9b652e67-9768-42b3-a690-58be37d12134" />
 </div>
 
 <!-- Widget de Streak
