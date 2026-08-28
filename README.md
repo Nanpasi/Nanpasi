@@ -37,6 +37,13 @@
   <h2>🔹QR Code Generator🔹</h2>
   <p>Interface que recebe uma string do usuário e retorna um qr code, com opção de copiar e baixar PNG.</p>
   <img width="477" height="647" alt="image" src="https://github.com/user-attachments/assets/9b652e67-9768-42b3-a690-58be37d12134" />
+
+  <h2>🔹Visor de temperatura e umidade🔹</h2>
+  <p>Visor de temperatura e umidade ambiente feito usando um Arduino Uno.</p>
+  <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/2002ed57-f807-4af4-9ded-48751bf53f65" />
+  <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/da143bb1-59ce-4c76-abfb-3bf01af99459" />
+
+
 </div>
 
 <!-- Widget de Streak
