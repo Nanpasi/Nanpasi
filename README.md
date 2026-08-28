@@ -40,7 +40,7 @@
 
   <h2>🔹Visor de temperatura e umidade🔹</h2>
   <p>Visor de temperatura e umidade ambiente feito usando um Arduino Uno.</p>
-  <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/2002ed57-f807-4af4-9ded-48751bf53f65" />
+  <img width="1113" height="750" alt="image" src="https://github.com/user-attachments/assets/477a3684-663c-4f5a-a582-9694c2313309" />
   <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/da143bb1-59ce-4c76-abfb-3bf01af99459" />
 
 
